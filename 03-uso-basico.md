@@ -20,5 +20,7 @@ exemplosoft list
 ```bash
 exemplosoft remove 1
 ```
+Ercribiendo cambio improtantes 
+++++++++++++++++++++++++++++++++
 
 👉 Queres colaborar mellorando o proxecto? Mira a seguinte sección: [Contribución](04-contribucion.md)
